@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .form-container {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .hover-highlight:hover {
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+  }
+  
